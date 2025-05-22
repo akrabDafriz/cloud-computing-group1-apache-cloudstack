@@ -60,12 +60,12 @@ OS: EL8 + or Ubuntu 22.04 or higher
 ### Network Address
 
 ```
-Network Address: 
-Host IP Address:
-Gateway:
-Management IP:
-System IP:
-Public IP: 
+Network Address: 192.168.106.0
+Host IP Address: 192.168.106.155
+Gateway: 192.168.106.1
+Management IP: 192.168.106.155
+System IP: 192.168.106.150 - 192.168.106.169
+Public IP: 192.168.106.170 - 192.168.106.200
 ```
 
 ## Ubuntu Server Setup
