@@ -322,7 +322,12 @@ Configuration
 
 ![](https://i.imgur.com/SsFijIP.png)
 
-# 5. References
+
+
+# 5. Complete Video Tutorial
+https://youtu.be/SHd-b_ka6fQ?si=tZMGL5VbddFDQ1SY
+
+# 6. References
 
 1. https://docs.cloudstack.apache.org/en/latest/installguide/building_from_source.html
 2. https://docs.cloudstack.apache.org/en/latest/installguide/building_from_source.html
