@@ -9,7 +9,9 @@ Contributors:
 
 # Video Installation
 
-<iframe width="1163" height="654" src="https://www.youtube.com/embed/SHd-b_ka6fQ" title="Virtual Machine Setup with Apache Cloudstack, MySQL, and Cloudmonkey" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=SHd-b_ka6fQ" target="_blank">
+ <img src="http://img.youtube.com/vi/SHd-b_ka6fQ/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
 
 # 1. Introduction
 
