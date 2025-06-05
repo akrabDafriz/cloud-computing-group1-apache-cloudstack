@@ -294,34 +294,57 @@ Cloudstack Dashboard
 
 ![](https://i.imgur.com/fnqxouk.png)
 
+Secondary Dashboard Panel
+
 ![](https://i.imgur.com/pcpx4p2.png)
 
-Configuration
+Configuration Tab
 
 ![](https://i.imgur.com/z2MpvMy.png)
 
+Zone Configuration
+
 ![](https://i.imgur.com/dGSZH3x.png)
+
+Cloud Network Configuration
 
 ![](https://i.imgur.com/5UhJwtz.png)
 
+IP Setting
+
 ![](https://i.imgur.com/OuhRkYv.png)
+
+System Resources Summary
 
 ![](https://i.imgur.com/MBPnT3L.png)
 
+Volume Tab - VM View
+
 ![](https://i.imgur.com/v5Eo8f7.png)
+
+VM Networking Detail
 
 ![](https://i.imgur.com/DPiY8mB.png)
 
-![](blob:https://imgur.com/ecdfb524-e745-4615-a7f9-ebef748740e6)
+VM INstance Overview
+
+![](https://i.imgur.com/v0D3h2o.png)
+
+Virtual Router Details
 
 ![](https://i.imgur.com/U9e2vgN.png)
 
+Public IP & NAT Config
+
 ![](https://i.imgur.com/lBbFv3p.png)
+
+Network Rules
 
 ![](https://i.imgur.com/UN40ZHN.png)
 
-![](https://i.imgur.com/SsFijIP.png)
+Firewall Rules Overview
 
+![](https://i.imgur.com/SsFijIP.png)
 
 
 # 5. Complete Video Tutorial
