@@ -7,6 +7,10 @@ Contributors:
 - Kevin Ariono (2206059603)
 - Muhammad Daffa Rizkyandri (2206829194)
 
+# Video Installation
+
+<iframe width="1163" height="654" src="https://www.youtube.com/embed/SHd-b_ka6fQ" title="Virtual Machine Setup with Apache Cloudstack, MySQL, and Cloudmonkey" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # 1. Introduction
 
 ## Apache Cloudstack
