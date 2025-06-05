@@ -10,7 +10,7 @@ Contributors:
 # Video Installation
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=SHd-b_ka6fQ" target="_blank">
- <img src="http://img.youtube.com/vi/SHd-b_ka6fQ/mqdefault.jpg" alt="Watch the video" width="1920" height="1080" border="10" />
+ <img src="http://img.youtube.com/vi/SHd-b_ka6fQ/mqdefault.jpg" alt="Watch the video" width="1080" height="1920" border="10" />
 </a>
 
 # 1. Introduction
