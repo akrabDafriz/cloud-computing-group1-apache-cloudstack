@@ -9,7 +9,9 @@ Contributors:
 
 # Video Installation
 
-[![Video Demos](https://img.youtube.com/vi/SHd-b_ka6fQ/default.jpg)](https://youtu.be/SHd-b_ka6fQ)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=SHd-b_ka6fQ" target="_blank">
+ <img src="http://img.youtube.com/vi/SHd-b_ka6fQ/mqdefault.jpg" alt="Watch the video" width="1920" height="1080" border="10" />
+</a>
 
 # 1. Introduction
 
