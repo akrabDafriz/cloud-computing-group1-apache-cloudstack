@@ -9,9 +9,7 @@ Contributors:
 
 # Video Installation
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=SHd-b_ka6fQ" target="_blank">
- <img src="http://img.youtube.com/vi/SHd-b_ka6fQ/mqdefault.jpg" alt="Watch the video" width="1080" height="1920" border="10" />
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SHd-b_ka6fQ?si=VOcIeweH0vtFGqz6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # 1. Introduction
 
